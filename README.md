@@ -1,4 +1,3 @@
-
 # 🧍 Parsa WindowPet
 
 **A lightweight desktop stickman pet for Windows.**  
@@ -23,7 +22,7 @@ It places a stickman character on the desktop that can move around and interact 
 - 🪟 Designed for the Windows desktop
 - 🎨 Simple and clean design
 - 💻 Built with Python and PySide6
-
+- ⭐ Auto Run
 ### 📥 Download
 
 Download the latest Windows version from the **Releases** section of this repository.
@@ -63,7 +62,7 @@ This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for
 - 🪟 طراحی‌شده برای دسکتاپ ویندوز
 - 🎨 طراحی ساده و تمیز
 - 💻 ساخته‌شده با Python و PySide6
-
+- ⭐ شروع شدن هنگام روشن شدن ویندوز
 ### 📥 دانلود
 
 آخرین نسخه برنامه را از بخش **Releases** همین مخزن دانلود کنید.
@@ -97,11 +96,13 @@ If you like this project, consider giving it a ⭐ on GitHub.
 
 Made with ❤️ and Python.
 <p align="center">
-  <a href="../../releases/latest/download/Window.Pet.exe">
+  <a href="../../releases/latest/download/WindowPet.exe">
     ⬇️ Download for Windows 10/11
   </a>
   &nbsp;&nbsp;
-  <a href="../../releases/latest/download/Window.Pet-Windows7.exe">
+  <a href="../../releases/latest/download/Window.Pet.Windows7.exe">
     ⬇️ Download for Windows 7
   </a>
 </p>
+
+**Full Changelog**: https://github.com/mhmdparsarstmyprwr-netizen/parsa-Window-Pet/compare/v1.0.0...1.1

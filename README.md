@@ -96,3 +96,8 @@ If you like this project, consider giving it a ⭐ on GitHub.
 **Current version:** `v1.0.0`
 
 Made with ❤️ and Python.
+<p align="center">
+  <a href="../../releases/latest/download/Window.Pet.exe">
+    <strong>⬇️ Download Parsa WindowPet</strong>
+  </a>
+</p>

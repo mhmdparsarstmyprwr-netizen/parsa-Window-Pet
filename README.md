@@ -98,6 +98,10 @@ If you like this project, consider giving it a ⭐ on GitHub.
 Made with ❤️ and Python.
 <p align="center">
   <a href="../../releases/latest/download/Window.Pet.exe">
-    <strong>⬇️ Download Parsa WindowPet</strong>
+    ⬇️ Download for Windows 10/11
+  </a>
+  &nbsp;&nbsp;
+  <a href="../../releases/latest/download/Window.Pet-Windows7.exe">
+    ⬇️ Download for Windows 7
   </a>
 </p>

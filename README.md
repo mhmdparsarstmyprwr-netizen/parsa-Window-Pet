@@ -92,7 +92,7 @@ If you like this project, consider giving it a ⭐ on GitHub.
 
 ---
 
-**Current version:** `v1.0.0`
+**Current version:** `v1.1`
 
 Made with ❤️ and Python.
 <p align="center">
